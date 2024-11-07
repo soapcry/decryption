@@ -15,3 +15,5 @@ Decryptor.decrypt(String raw, char supposed_char, boolean message);
 ```java
 Decryptor.decryptTotally(String raw, boolean message);
 ```
+Результат работы программы:
+![Image alt](https://github.com/soapcry/decryption/blob/main/image.png)
